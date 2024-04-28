@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=satincrop-react)](https://github.com/ganagesm/satincrop-react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/ganagesm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganagesm)](https://github.com/ganagesm/github-readme-stats)
