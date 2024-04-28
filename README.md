@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=github-readme-stats)](https://github.com/ganagesm/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=satincrop-react)](https://github.com/ganagesm/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/ganagesm/github-readme-stats)
