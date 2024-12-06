@@ -14,7 +14,7 @@
 ---
 
 ### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=satincrop-react)](https://github.com/ganagesm/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=uxportfolio)](https://github.com/ganagesm/github-readme-stats)
 
 ---
 
