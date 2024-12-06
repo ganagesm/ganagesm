@@ -1,23 +1,21 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
+---
 
-<!--
-**ganagesm/ganagesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=satincrop-react)](https://github.com/ganagesm/github-readme-stats)
-
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/ganagesm/github-readme-stats)
 
+---
+
+### My Wakatime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganagesm)](https://github.com/ganagesm/github-readme-stats)
+
+---
+
+### My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ganagesm&repo=satincrop-react)](https://github.com/ganagesm/github-readme-stats)
+
+---
+
+Feel free to explore my repositories and contribute to projects!
