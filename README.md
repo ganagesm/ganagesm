@@ -24,11 +24,6 @@
 
 ---
 
-## 🔥 Total Lines of Code Written
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📂 Notable Projects  
 ### 1️⃣ **Cab Driver Wallet App** (Mobile UI/UX)  
 - Designed a **wallet app** for cab drivers to track earnings, commissions, and payouts.  
