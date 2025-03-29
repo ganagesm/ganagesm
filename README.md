@@ -24,9 +24,8 @@
 
 ---
 
-## 🔥 Total Lines of Code Written  
-[![Sopan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganagesm)](https://wakatime.com/@ganagesm)  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganagesm)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 Total Lines of Code Written
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
