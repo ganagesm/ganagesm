@@ -1,66 +1,66 @@
-# Hi there, I'm Sopan Ganage 👋
----
+# 👋 Hi, I'm Sopan Ganage
 
-## GitHub Stats
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+🚀 **UI/UX Designer | Frontend Enthusiast | Product Thinker**  
+🎨 Passionate about creating intuitive, accessible, and visually appealing digital experiences.  
+📍 Based in Dubai | Available for Freelance & Full-time roles.  
 
 ---
 
-### My Wakatime Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&hide_progress=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats & Contributions  
+[![Sopan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SopanGanage&show_icons=true&theme=radical)](https://github.com/SopanGanage)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SopanGanage&theme=radical&hide_border=true)](https://github.com/SopanGanage)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SopanGanage&layout=compact&theme=radical)](https://github.com/SopanGanage)  
 
 ---
 
-Feel free to explore my repositories and contribute to projects!
+## 🚀 Tech Stack  
+![Figma](https://img.shields.io/badge/Figma-FF8C00?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-Hi there, I'm Sopan Ganage 👋
+---
 
-🚀 About Me
+## 🔥 Total Lines of Code Written  
+[![Sopan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SopanGanage)](https://wakatime.com/@SopanGanage)  
 
-I'm a Full Stack Developer & UI/UX Designer with expertise in Next.js, React.js, WordPress, and DevOps. I specialize in designing and developing intuitive, scalable web applications while optimizing SEO and managing cloud infrastructure. With 7+ years of experience, I have successfully delivered high-performing solutions for startups and enterprises, focusing on user experience, accessibility, and performance.
+---
 
-📊 GitHub Stats
+## 📂 Notable Projects  
+### 1️⃣ **Cab Driver Wallet App** (Mobile UI/UX)  
+- Designed a **wallet app** for cab drivers to track earnings, commissions, and payouts.  
+- Included **visual analytics** like bar charts, line graphs, and weekly performance insights.  
+- **Tech Used:** Figma, Adobe XD, React Native.  
 
-📌 Key Performance Metrics
+### 2️⃣ **Track & Trust – Secure Asset Portal**  
+- Created a **UX case study** for tracking assets in **Commercial Real Estate & Investment Banking.**  
+- Designed an **intuitive, WCAG-compliant** UI with role-based dashboards.  
+- **Tech Used:** Figma, User Research, Wireframing, High-Fidelity Mockups.  
 
+### 3️⃣ **Cashout Website Redesign – Home.LLC (Dubai)**  
+- Revamped the **Home.LLC** cashout website for improved UX, accessibility, and branding.  
+- **Tech Used:** Figma, UX Strategy, UI Design, Usability Testing.  
 
+---
 
-📌 Top Languages
+## 🤝 Collaborated On  
+| Project | Role | Team Members |
+|---------|------|--------------|
+| Cab Driver Wallet App | Lead UI/UX Designer | 5+ |
+| Track & Trust | UX Designer & Researcher | 4+ |
+| Home.LLC Website Redesign | UI/UX Designer | 3+ |
 
+---
 
+## 📫 Let's Connect!  
+💼 **[LinkedIn](https://www.linkedin.com/in/sopanganage/)**  
+🌐 **[Portfolio](https://sopanganage.com/)**  
+📧 **Email:** sopanganage@gmail.com  
+🚀 **Freelance Available:** Yes  
 
-📌 Wakatime Coding Activity
+---
 
-
-
-💻 My Projects
-
-⭐ Featured Projects
-
-
-
-🛠️ Other Projects
-
-🚖 Cab Driver App UI - A user-friendly mobile app for cab drivers with wallet functionality.
-
-🔐 Track & Trust – Portal - A secure portal for tracking and verifying assets in industries like real estate and banking.
-
-📊 Next.js Dashboard - A modern admin panel built with Next.js and TailwindCSS.
-
-🎨 WordPress Custom Theme - A fully responsive WordPress theme designed for performance and SEO.
-
-🏢 Organizations & Contributions
-
-I actively contribute to:
-
-
-🖥️ Open Source UX & Full Stack Development Projects
-🏦 Private Market Investing Platforms
-🏢 Salesforce-based Enterprise UX Solutions
-☁️ DevOps & Cloud Infrastructure Optimization
-📈 SEO & Performance Enhancement for Web Applications
-
+⭐ **Feel free to fork and contribute!**  
