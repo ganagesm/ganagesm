@@ -2,7 +2,7 @@
 
 🚀 **UI/UX Designer | Frontend Enthusiast | Product Thinker**  
 🎨 Passionate about creating intuitive, accessible, and visually appealing digital experiences.  
-📍 Based in Dubai | Available for Freelance & Full-time roles.  
+📍 Based in Pune, India | Available for Freelance & Full-time roles.  
 
 ---
 
