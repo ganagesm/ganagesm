@@ -5,6 +5,7 @@
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)](https://github.com/ganagesm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=pie)
 
 ---
 
@@ -22,52 +23,50 @@
 
 Feel free to explore my repositories and contribute to projects!
 
-
-
 Hi there, I'm Sopan Ganage 👋
 
 🚀 About Me
 
-I'm a Full Stack Developer & UI/UX Designer with expertise in Next.js, React.js, WordPress, and DevOps. I specialize in designing and developing intuitive, scalable web applications while optimizing SEO and managing cloud infrastructure.
+I'm a Full Stack Developer & UI/UX Designer with expertise in Next.js, React.js, WordPress, and DevOps. I specialize in designing and developing intuitive, scalable web applications while optimizing SEO and managing cloud infrastructure. With 7+ years of experience, I have successfully delivered high-performing solutions for startups and enterprises, focusing on user experience, accessibility, and performance.
 
 📊 GitHub Stats
 
-Top Languages
+📌 Key Performance Metrics
 
 
 
-Wakatime Stats
+📌 Top Languages
 
 
+
+📌 Wakatime Coding Activity
 
 
 
 💻 My Projects
 
-Featured Projects
+⭐ Featured Projects
 
 
 
-Other Projects
+🛠️ Other Projects
 
-Cab Driver App UI - A user-friendly mobile app for cab drivers with wallet functionality.
+🚖 Cab Driver App UI - A user-friendly mobile app for cab drivers with wallet functionality.
 
-Track & Trust – Portal - A secure portal for tracking and verifying assets in industries like real estate and banking.
+🔐 Track & Trust – Portal - A secure portal for tracking and verifying assets in industries like real estate and banking.
 
-Next.js Dashboard - A modern admin panel built with Next.js and TailwindCSS.
+📊 Next.js Dashboard - A modern admin panel built with Next.js and TailwindCSS.
 
-WordPress Custom Theme - A fully responsive WordPress theme designed for performance and SEO.
+🎨 WordPress Custom Theme - A fully responsive WordPress theme designed for performance and SEO.
 
 🏢 Organizations & Contributions
 
-I'm actively contributing to:
+I actively contribute to:
 
-Open Source UX & Full Stack Development Projects
 
-Private Market Investing Platforms
+🖥️ Open Source UX & Full Stack Development Projects
+🏦 Private Market Investing Platforms
+🏢 Salesforce-based Enterprise UX Solutions
+☁️ DevOps & Cloud Infrastructure Optimization
+📈 SEO & Performance Enhancement for Web Applications
 
-Salesforce-based Enterprise UX Solutions
-
-DevOps & Cloud Infrastructure Optimization
-
-SEO & Performance Enhancement for Web Applications
