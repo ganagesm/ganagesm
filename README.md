@@ -7,9 +7,9 @@
 ---
 
 ## 📊 GitHub Stats & Contributions  
-[![Sopan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SopanGanage&show_icons=true&theme=radical)](https://github.com/SopanGanage)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SopanGanage&theme=radical&hide_border=true)](https://github.com/SopanGanage)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SopanGanage&layout=compact&theme=radical)](https://github.com/SopanGanage)  
+[![Sopan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganagesm&show_icons=true&theme=radical)](https://github.com/ganagesm)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ganagesm&theme=radical&hide_border=true)](https://github.com/ganagesm)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganagesm&layout=compact&theme=radical)](https://github.com/ganagesm)  
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🔥 Total Lines of Code Written  
-[![Sopan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SopanGanage)](https://wakatime.com/@SopanGanage)  
+[![Sopan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganagesm)](https://wakatime.com/@ganagesm)  
 
 ---
 
@@ -56,9 +56,9 @@
 ---
 
 ## 📫 Let's Connect!  
-💼 **[LinkedIn](https://www.linkedin.com/in/sopanganage/)**  
-🌐 **[Portfolio](https://sopanganage.com/)**  
-📧 **Email:** sopanganage@gmail.com  
+💼 **[LinkedIn](https://www.linkedin.com/in/ganagesm/)**  
+🌐 **[Portfolio](https://drive.google.com/file/d/1i-SKd4jgQetIAin-qEoff-et-82p6pW7/view)**  
+📧 **Email:** gangesm1@gmail.com  
 🚀 **Freelance Available:** Yes  
 
 ---
